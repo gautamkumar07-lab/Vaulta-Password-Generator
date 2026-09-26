@@ -40,7 +40,7 @@ Vaulta includes a modern Glassmorphism design, responsive layouts, dark/light th
 
 ### Project Type
 
-Frontend Web Application
+ Web Application
 
 ### Repository
 
